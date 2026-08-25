@@ -1,5 +1,7 @@
 <div align="center">
 
+**[English](./README_en.md)** | **中文**
+
 # 🔥 GitHub Trending Daily
 
 > 每日追踪 GitHub 热榜，用中文为你整理 **Top 10 趋势项目** —— 提炼项目亮点、可借鉴之处与行业洞察。
