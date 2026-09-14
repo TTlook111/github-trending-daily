@@ -46,6 +46,38 @@ Every report also opens with a **📊 Daily Trend Insight** that connects all 10
 
 ---
 
+## 📌 Latest Report
+
+<table>
+<tr>
+<td>
+
+### 👉 [2026-09-14 · Transparency Wave — From Satellite Intel to System Prompts, Hidden Data Goes Public](./2026/09/2026-09-14.md)
+
+| | |
+| --- | --- |
+| 📅 **Date** | 2026-09-14 |
+| 🧩 **Theme** | Transparency Wave — From Satellite Intel to System Prompts, Hidden Data Goes Public |
+| 📦 **Projects** | 10 |
+| 🧭 **Coverage** | Data Transparency & OSINT · AI Agents in Vertical Domains · Self-Hosting & Digital Autonomy |
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📅 Past Reports
+
+Organized by `year/month`, all preserved for browsing.
+
+| Month | Issues | Browse |
+| --- | --- | --- |
+| September 2026 | 13 | [Enter →](./2026/09/) |
+| August 2026 | 16 | [Enter →](./2026/08/) |
+
+---
+
 ## 📅 Report Format
 
 Each daily report includes:
