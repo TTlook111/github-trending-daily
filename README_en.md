@@ -52,14 +52,14 @@ Every report also opens with a **📊 Daily Trend Insight** that connects all 10
 <tr>
 <td>
 
-### 👉 [2026-09-14 · Transparency Wave — From Satellite Intel to System Prompts, Hidden Data Goes Public](./2026/09/2026-09-14.md)
+### 👉 [2026-09-15 · AI Agents Evolve from Coding Assistants to Full-Pipeline Operators](./2026/09/2026-09-15.md)
 
 | | |
 | --- | --- |
-| 📅 **Date** | 2026-09-14 |
-| 🧩 **Theme** | Transparency Wave — From Satellite Intel to System Prompts, Hidden Data Goes Public |
+| 📅 **Date** | 2026-09-15 |
+| 🧩 **Theme** | AI Agents Evolve from Coding Assistants to Full-Pipeline Operators |
 | 📦 **Projects** | 10 |
-| 🧭 **Coverage** | Data Transparency & OSINT · AI Agents in Vertical Domains · Self-Hosting & Digital Autonomy |
+| 🗺️ **Coverage** | AI Agents in Vertical Full-Pipeline · AI Infrastructure Democratization · Data Transparency & OSINT |
 
 </td>
 </tr>
@@ -73,7 +73,7 @@ Organized by `year/month`, all preserved for browsing.
 
 | Month | Issues | Browse |
 | --- | --- | --- |
-| September 2026 | 13 | [Enter →](./2026/09/) |
+| September 2026 | 14 | [Enter →](./2026/09/) |
 | August 2026 | 16 | [Enter →](./2026/08/) |
 
 ---
