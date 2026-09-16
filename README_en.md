@@ -52,14 +52,14 @@ Every report also opens with a **📊 Daily Trend Insight** that connects all 10
 <tr>
 <td>
 
-### 👉 [2026-09-15 · AI Agents Evolve from Coding Assistants to Full-Pipeline Operators](./2026/09/2026-09-15.md)
+### 👉 [2026-09-16 · AI Evolves from Chat Interface to Full-Sensory Operating System](./2026/09/2026-09-16.md)
 
 | | |
 | --- | --- |
-| 📅 **Date** | 2026-09-15 |
-| 🧩 **Theme** | AI Agents Evolve from Coding Assistants to Full-Pipeline Operators |
+| 📅 **Date** | 2026-09-16 |
+| 🧩 **Theme** | AI Evolves from Chat Interface to Full-Sensory Operating System |
 | 📦 **Projects** | 10 |
-| 🗺️ **Coverage** | AI Agents in Vertical Full-Pipeline · AI Infrastructure Democratization · Data Transparency & OSINT |
+| 🗺️ **Coverage** | AI Inference Democratization · Full-Sensory Capability Expansion · AI Governance & Transparency |
 
 </td>
 </tr>
@@ -73,7 +73,7 @@ Organized by `year/month`, all preserved for browsing.
 
 | Month | Issues | Browse |
 | --- | --- | --- |
-| September 2026 | 14 | [Enter →](./2026/09/) |
+| September 2026 | 15 | [Enter →](./2026/09/) |
 | August 2026 | 16 | [Enter →](./2026/08/) |
 
 ---
