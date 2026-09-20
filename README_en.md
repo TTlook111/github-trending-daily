@@ -52,14 +52,14 @@ Every report also opens with a **📊 Daily Trend Insight** that connects all 10
 <tr>
 <td>
 
-### 👉 [2026-09-18 · AI Agent Trust Infrastructure Takes Shape](./2026/09/2026-09-18.md)
+### 👉 [2026-09-20 · AI Agent Infrastructure Layering Era Arrives](./2026/09/2026-09-20.md)
 
 | | |
 | --- | --- |
-| 📅 **Date** | 2026-09-18 |
-| 🧩 **Theme** | AI Agent Trust Infrastructure Takes Shape |
+| 📅 **Date** | 2026-09-20 |
+| 🧩 **Theme** | AI Agent Infrastructure Layering Era Arrives |
 | 📦 **Projects** | 10 |
-| 🗺️ **Coverage** | AI Code Review & Security Audit · Agent Skill Standardization · Knowledge Work Full Coverage |
+| 🗺️ **Coverage** | Security Audit & Computer Use · Enterprise Self-Host & Edge AI · Personal Knowledge & Vertical Apps |
 
 </td>
 </tr>
@@ -73,7 +73,7 @@ Organized by `year/month`, all preserved for browsing.
 
 | Month | Issues | Browse |
 | --- | --- | --- |
-| September 2026 | 17 | [Enter →](./2026/09/) |
+| September 2026 | 18 | [Enter →](./2026/09/) |
 | August 2026 | 16 | [Enter →](./2026/08/) |
 
 ---
