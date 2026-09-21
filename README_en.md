@@ -52,14 +52,14 @@ Every report also opens with a **📊 Daily Trend Insight** that connects all 10
 <tr>
 <td>
 
-### 👉 [2026-09-20 · AI Agent Infrastructure Layering Era Arrives](./2026/09/2026-09-20.md)
+### 👉 [2026-09-21 · AI Agents Move from General Tools to Vertical Industry Solutions](./2026/09/2026-09-21.md)
 
 | | |
 | --- | --- |
-| 📅 **Date** | 2026-09-20 |
-| 🧩 **Theme** | AI Agent Infrastructure Layering Era Arrives |
+| 📅 **Date** | 2026-09-21 |
+| 🧩 **Theme** | AI Agents Move from General Tools to Vertical Industry Solutions |
 | 📦 **Projects** | 10 |
-| 🗺️ **Coverage** | Security Audit & Computer Use · Enterprise Self-Host & Edge AI · Personal Knowledge & Vertical Apps |
+| 🗺️ **Coverage** | Security Audit & Computer Use · Finance & Generative UI · Enterprise Self-Host & Infrastructure |
 
 </td>
 </tr>
@@ -73,7 +73,7 @@ Organized by `year/month`, all preserved for browsing.
 
 | Month | Issues | Browse |
 | --- | --- | --- |
-| September 2026 | 18 | [Enter →](./2026/09/) |
+| September 2026 | 20 | [Enter →](./2026/09/) |
 | August 2026 | 16 | [Enter →](./2026/08/) |
 
 ---
