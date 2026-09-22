@@ -52,14 +52,14 @@ Every report also opens with a **📊 Daily Trend Insight** that connects all 10
 <tr>
 <td>
 
-### 👉 [2026-09-21 · AI Agents Move from General Tools to Vertical Industry Solutions](./2026/09/2026-09-21.md)
+### 👉 [2026-09-22 · AI Agents Move Toward Platforms and Finance](./2026/09/2026-09-22.md)
 
 | | |
 | --- | --- |
-| 📅 **Date** | 2026-09-21 |
-| 🧩 **Theme** | AI Agents Move from General Tools to Vertical Industry Solutions |
+| 📅 **Date** | 2026-09-22 |
+| 🧩 **Theme** | AI Agents Move Toward Platforms and Finance |
 | 📦 **Projects** | 10 |
-| 🗺️ **Coverage** | Security Audit & Computer Use · Finance & Generative UI · Enterprise Self-Host & Infrastructure |
+| 🗺️ **Coverage** | AI Agent Infrastructure & Frameworks · Fintech & Vertical AI Adoption · Offline Self-Hosting & Digital Security |
 
 </td>
 </tr>
@@ -73,7 +73,7 @@ Organized by `year/month`, all preserved for browsing.
 
 | Month | Issues | Browse |
 | --- | --- | --- |
-| September 2026 | 20 | [Enter →](./2026/09/) |
+| September 2026 | 21 | [Enter →](./2026/09/) |
 | August 2026 | 16 | [Enter →](./2026/08/) |
 
 ---
