@@ -52,14 +52,14 @@ Every report also opens with a **📊 Daily Trend Insight** that connects all 10
 <tr>
 <td>
 
-### 👉 [2026-09-22 · AI Agents Move Toward Platforms and Finance](./2026/09/2026-09-22.md)
+### 👉 [2026-09-23 · Agent Stack Stratifies, Deterministic Engineering Returns](./2026/09/2026-09-23.md)
 
 | | |
 | --- | --- |
-| 📅 **Date** | 2026-09-22 |
-| 🧩 **Theme** | AI Agents Move Toward Platforms and Finance |
+| 📅 **Date** | 2026-09-23 |
+| 🧩 **Theme** | Agent Stack Stratifies, Deterministic Engineering Returns |
 | 📦 **Projects** | 10 |
-| 🗺️ **Coverage** | AI Agent Infrastructure & Frameworks · Fintech & Vertical AI Adoption · Offline Self-Hosting & Digital Security |
+| 🗺️ **Coverage** | Agent Orchestration & Sandbox Runtimes · Deterministic Engineering & Tool Gateways · Enterprise Knowledge & Content Production |
 
 </td>
 </tr>
@@ -73,7 +73,7 @@ Organized by `year/month`, all preserved for browsing.
 
 | Month | Issues | Browse |
 | --- | --- | --- |
-| September 2026 | 21 | [Enter →](./2026/09/) |
+| September 2026 | 22 | [Enter →](./2026/09/) |
 | August 2026 | 16 | [Enter →](./2026/08/) |
 
 ---
