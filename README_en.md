@@ -52,14 +52,14 @@ Every report also opens with a **📊 Daily Trend Insight** that connects all 10
 <tr>
 <td>
 
-### 👉 [2026-09-23 · Agent Stack Stratifies, Deterministic Engineering Returns](./2026/09/2026-09-23.md)
+### 👉 [2026-09-24 · Agent Infrastructure Holds the Board, Methodology Layer Takes Shape](./2026/09/2026-09-24.md)
 
 | | |
 | --- | --- |
-| 📅 **Date** | 2026-09-23 |
-| 🧩 **Theme** | Agent Stack Stratifies, Deterministic Engineering Returns |
+| 📅 **Date** | 2026-09-24 |
+| 🧩 **Theme** | Agent Infrastructure Holds the Board, Methodology Layer Takes Shape |
 | 📦 **Projects** | 10 |
-| 🗺️ **Coverage** | Agent Orchestration & Sandbox Runtimes · Deterministic Engineering & Tool Gateways · Enterprise Knowledge & Content Production |
+| 🗺️ **Coverage** | Agent Orchestration, Sandboxes & Tool Gateways · Agent Development Methodology & Skills Frameworks · Fintech & Digital Security |
 
 </td>
 </tr>
@@ -73,7 +73,7 @@ Organized by `year/month`, all preserved for browsing.
 
 | Month | Issues | Browse |
 | --- | --- | --- |
-| September 2026 | 22 | [Enter →](./2026/09/) |
+| September 2026 | 23 | [Enter →](./2026/09/) |
 | August 2026 | 16 | [Enter →](./2026/08/) |
 
 ---
