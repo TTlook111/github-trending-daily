@@ -52,14 +52,14 @@ Every report also opens with a **📊 Daily Trend Insight** that connects all 10
 <tr>
 <td>
 
-### 👉 [2026-09-19 · AI Agent Skills Boom + Big Tech Agent Race](./2026/09/2026-09-19.md)
+### 👉 [2026-09-25 · The Full Agent Tech Stack Takes Shape](./2026/09/2026-09-25.md)
 
 | | |
 | --- | --- |
-| 📅 **Date** | 2026-09-19 |
-| 🧩 **Theme** | AI Agent Skills Boom + Big Tech Agent Race |
+| 📅 **Date** | 2026-09-25 |
+| 🧩 **Theme** | The Full Agent Tech Stack Takes Shape |
 | 📦 **Projects** | 10 |
-| 🧭 **Coverage** | AI Agent Skills Ecosystem · Big Tech Agent Infra · Real-World Agent Execution |
+| 🧭 **Coverage** | Agent Orchestration & Memory Infra · Tool Aggregation & Software CLI-fication · Vertical Agent Templates |
 
 </td>
 </tr>
@@ -111,7 +111,7 @@ Organized by `year/month`, all preserved for easy browsing.
 
 | Month | Count | Browse |
 | --- | --- | --- |
-| September 2026 | 13 reports | [Enter →](./2026/09/) |
+| September 2026 | 19 reports | [Enter →](./2026/09/) |
 | August 2026 | 16 reports | [Enter →](./2026/08/) |
 
 > Reports are named `YYYY-MM-DD.md`. Missing dates mean no report was produced that day; historical reports are never modified.
