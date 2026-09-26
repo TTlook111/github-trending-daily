@@ -52,14 +52,14 @@ Every report also opens with a **📊 Daily Trend Insight** that connects all 10
 <tr>
 <td>
 
-### 👉 [2026-09-25 · The Full Agent Tech Stack Takes Shape](./2026/09/2026-09-25.md)
+### 👉 [2026-09-26 · From Employees to Companies: Agent Industrialization](./2026/09/2026-09-26.md)
 
 | | |
 | --- | --- |
-| 📅 **Date** | 2026-09-25 |
-| 🧩 **Theme** | The Full Agent Tech Stack Takes Shape |
+| 📅 **Date** | 2026-09-26 |
+| 🧩 **Theme** | From Employees to Companies: Agent Industrialization |
 | 📦 **Projects** | 10 |
-| 🧭 **Coverage** | Agent Orchestration & Memory Infra · Tool Aggregation & Software CLI-fication · Vertical Agent Templates |
+| 🧭 **Coverage** | Agent Orchestration & Memory Infra · Agent Skills Ecosystem & Design Quality · Office Runtime & Inference Optimization |
 
 </td>
 </tr>
@@ -111,7 +111,7 @@ Organized by `year/month`, all preserved for easy browsing.
 
 | Month | Count | Browse |
 | --- | --- | --- |
-| September 2026 | 19 reports | [Enter →](./2026/09/) |
+| September 2026 | 25 reports | [Enter →](./2026/09/) |
 | August 2026 | 16 reports | [Enter →](./2026/08/) |
 
 > Reports are named `YYYY-MM-DD.md`. Missing dates mean no report was produced that day; historical reports are never modified.
