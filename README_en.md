@@ -52,14 +52,14 @@ Every report also opens with a **📊 Daily Trend Insight** that connects all 10
 <tr>
 <td>
 
-### 👉 [2026-09-26 · From Employees to Companies: Agent Industrialization](./2026/09/2026-09-26.md)
+### 👉 [2026-09-27 · Organizational Operations for Agents: From Individual Intelligence to Company Governance](./2026/09/2026-09-27.md)
 
 | | |
 | --- | --- |
-| 📅 **Date** | 2026-09-26 |
-| 🧩 **Theme** | From Employees to Companies: Agent Industrialization |
-| 📦 **Projects** | 10 |
-| 🧭 **Coverage** | Agent Orchestration & Memory Infra · Agent Skills Ecosystem & Design Quality · Office Runtime & Inference Optimization |
+| 📅 **Date** | 2026-09-27 |
+| 🧩 **Theme** | Organizational Operations for Agents: From Individual Intelligence to Company Governance |
+| 📦 **Projects** | 9 (only 9 repos on today's list; no padding) |
+| 🧭 **Coverage** | Agent Organizational Orchestration & Memory Infra · Local-First Open-Source Alternatives · Native Compilation & Compatibility Layers |
 
 </td>
 </tr>
@@ -111,7 +111,7 @@ Organized by `year/month`, all preserved for easy browsing.
 
 | Month | Count | Browse |
 | --- | --- | --- |
-| September 2026 | 25 reports | [Enter →](./2026/09/) |
+| September 2026 | 26 reports | [Enter →](./2026/09/) |
 | August 2026 | 16 reports | [Enter →](./2026/08/) |
 
 > Reports are named `YYYY-MM-DD.md`. Missing dates mean no report was produced that day; historical reports are never modified.
