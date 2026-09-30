@@ -52,14 +52,14 @@ Every report also opens with a **📊 Daily Trend Insight** that connects all 10
 <tr>
 <td>
 
-### 👉 [2026-09-29 · AI Infrastructure Deepens & Open-Source Education Breaks Through](./2026/09/2026-09-29.md)
+### 👉 [2026-09-30 · The Agent Tech Stack Solidifies by Layer](./2026/09/2026-09-30.md)
 
 | | |
 | --- | --- |
-| 📅 **Date** | 2026-09-29 |
-| 🧩 **Theme** | AI Infrastructure Deepens & Open-Source Education Breaks Through |
+| 📅 **Date** | 2026-09-30 |
+| 🧩 **Theme** | The Agent Tech Stack Solidifies by Layer |
 | 📦 **Projects** | 10 |
-| 🗺️ **Coverage** | Agent Memory & Multi-Agent Organizations · Local Voice & AI Office · Open-Source Education & Hardcore Hardware |
+| 🗺️ **Coverage** | Secure Agent Runtime, Memory & Retrieval · Multi-Agent Orchestration & AI Office · Deployment & Open-Source Education |
 
 </td>
 </tr>
@@ -73,7 +73,7 @@ Organized by `year/month`, all preserved for browsing.
 
 | Month | Issues | Browse |
 | --- | --- | --- |
-| September 2026 | 28 | [Enter →](./2026/09/) |
+| September 2026 | 29 | [Enter →](./2026/09/) |
 | August 2026 | 16 | [Enter →](./2026/08/) |
 
 ---
