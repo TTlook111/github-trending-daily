@@ -52,14 +52,14 @@ Every report also opens with a **📊 Daily Trend Insight** that connects all 10
 <tr>
 <td>
 
-### 👉 [2026-10-01 · Into the Deep End for Agents: Security, Governance and the Skills Boom](./2026/10/2026-10-01.md)
+### 👉 [2026-10-02 · The Skills-Framework Race Heats Up as Agent Infrastructure Matures](./2026/10/2026-10-02.md)
 
 | | |
 | --- | --- |
-| 📅 **Date** | 2026-10-01 |
-| 🧩 **Theme** | Into the Deep End for Agents: Security, Governance and the Skills Boom |
+| 📅 **Date** | 2026-10-02 |
+| 🧩 **Theme** | The Skills-Framework Race Heats Up as Agent Infrastructure Matures |
 | 📦 **Projects** | 10 |
-| 🧭 **Coverage** | Agent Security Runtimes & Multi-Agent Orchestration · The Skills Ecosystem · Reasoning-based RAG & AI Media |
+| 🧭 **Coverage** | Layered Skills & Methodology Frameworks · Agent Context & Security Infrastructure · Terminal TUIs & Media Toolchains |
 
 </td>
 </tr>
@@ -111,7 +111,7 @@ Organized by `year/month`, all preserved for easy browsing.
 
 | Month | Count | Browse |
 | --- | --- | --- |
-| October 2026 | 1 report | [Enter →](./2026/10/) |
+| October 2026 | 2 reports | [Enter →](./2026/10/) |
 | September 2026 | 26 reports | [Enter →](./2026/09/) |
 | August 2026 | 16 reports | [Enter →](./2026/08/) |
 
