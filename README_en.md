@@ -52,14 +52,14 @@ Every report also opens with a **📊 Daily Trend Insight** that connects all 10
 <tr>
 <td>
 
-### 👉 [2026-10-02 · The Skills-Framework Race Heats Up as Agent Infrastructure Matures](./2026/10/2026-10-02.md)
+### 👉 [2026-10-03 · Steady Rotation as the Agent Capability Layer Closes](./2026/10/2026-10-03.md)
 
 | | |
 | --- | --- |
-| 📅 **Date** | 2026-10-02 |
-| 🧩 **Theme** | The Skills-Framework Race Heats Up as Agent Infrastructure Matures |
+| 📅 **Date** | 2026-10-03 |
+| 🧩 **Theme** | Steady Rotation as the Agent Capability Layer Closes |
 | 📦 **Projects** | 10 |
-| 🧭 **Coverage** | Layered Skills & Methodology Frameworks · Agent Context & Security Infrastructure · Terminal TUIs & Media Toolchains |
+| 🧭 **Coverage** | Skills, Methodology & Context Engineering · Agent Internet Capability Layer · Multi-Agent Orchestration & Terminal Tools |
 
 </td>
 </tr>
@@ -111,7 +111,7 @@ Organized by `year/month`, all preserved for easy browsing.
 
 | Month | Count | Browse |
 | --- | --- | --- |
-| October 2026 | 2 reports | [Enter →](./2026/10/) |
+| October 2026 | 3 reports | [Enter →](./2026/10/) |
 | September 2026 | 26 reports | [Enter →](./2026/09/) |
 | August 2026 | 16 reports | [Enter →](./2026/08/) |
 
