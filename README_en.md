@@ -52,14 +52,14 @@ Every report also opens with a **📊 Daily Trend Insight** that connects all 10
 <tr>
 <td>
 
-### 👉 [2026-10-03 · Steady Rotation as the Agent Capability Layer Closes](./2026/10/2026-10-03.md)
+### 👉 [2026-10-04 · The Capability Layer Leads as the Agent Stack Spectrum Completes](./2026/10/2026-10-04.md)
 
 | | |
 | --- | --- |
-| 📅 **Date** | 2026-10-03 |
-| 🧩 **Theme** | Steady Rotation as the Agent Capability Layer Closes |
+| 📅 **Date** | 2026-10-04 |
+| 🧩 **Theme** | The Capability Layer Leads as the Agent Stack Spectrum Completes |
 | 📦 **Projects** | 10 |
-| 🧭 **Coverage** | Skills, Methodology & Context Engineering · Agent Internet Capability Layer · Multi-Agent Orchestration & Terminal Tools |
+| 🧭 **Coverage** | Agent Internet Capability Layer · Framework Methodology & Context Engineering · Production-Grade TypeScript Foundation |
 
 </td>
 </tr>
@@ -111,7 +111,7 @@ Organized by `year/month`, all preserved for easy browsing.
 
 | Month | Count | Browse |
 | --- | --- | --- |
-| October 2026 | 3 reports | [Enter →](./2026/10/) |
+| October 2026 | 4 reports | [Enter →](./2026/10/) |
 | September 2026 | 26 reports | [Enter →](./2026/09/) |
 | August 2026 | 16 reports | [Enter →](./2026/08/) |
 
