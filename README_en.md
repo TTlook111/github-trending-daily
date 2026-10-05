@@ -52,14 +52,14 @@ Every report also opens with a **📊 Daily Trend Insight** that connects all 10
 <tr>
 <td>
 
-### 👉 [2026-10-04 · The Capability Layer Leads as the Agent Stack Spectrum Completes](./2026/10/2026-10-04.md)
+### 👉 [2026-10-05 · Top Players Re-accelerate as Agents Race into Production](./2026/10/2026-10-05.md)
 
 | | |
 | --- | --- |
-| 📅 **Date** | 2026-10-04 |
-| 🧩 **Theme** | The Capability Layer Leads as the Agent Stack Spectrum Completes |
+| 📅 **Date** | 2026-10-05 |
+| 🧩 **Theme** | Top Players Re-accelerate as Agents Race into Production |
 | 📦 **Projects** | 10 |
-| 🧭 **Coverage** | Agent Internet Capability Layer · Framework Methodology & Context Engineering · Production-Grade TypeScript Foundation |
+| 🧭 **Coverage** | Cross-Session Memory & Internet Access · AI Video Production & Agent Control Surface · Engineering Quality, Testing & Coding Workflows |
 
 </td>
 </tr>
@@ -111,7 +111,7 @@ Organized by `year/month`, all preserved for easy browsing.
 
 | Month | Count | Browse |
 | --- | --- | --- |
-| October 2026 | 4 reports | [Enter →](./2026/10/) |
+| October 2026 | 5 reports | [Enter →](./2026/10/) |
 | September 2026 | 26 reports | [Enter →](./2026/09/) |
 | August 2026 | 16 reports | [Enter →](./2026/08/) |
 
