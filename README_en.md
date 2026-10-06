@@ -52,14 +52,14 @@ Every report also opens with a **📊 Daily Trend Insight** that connects all 10
 <tr>
 <td>
 
-### 👉 [2026-10-05 · Top Players Re-accelerate as Agents Race into Production](./2026/10/2026-10-05.md)
+### 👉 [2026-10-06 · Data Sovereignty Takes the Top as Hard Engineering Returns](./2026/10/2026-10-06.md)
 
 | | |
 | --- | --- |
-| 📅 **Date** | 2026-10-05 |
-| 🧩 **Theme** | Top Players Re-accelerate as Agents Race into Production |
+| 📅 **Date** | 2026-10-06 |
+| 🧩 **Theme** | Data Sovereignty Takes the Top as Hard Engineering Returns |
 | 📦 **Projects** | 10 |
-| 🧭 **Coverage** | Cross-Session Memory & Internet Access · AI Video Production & Agent Control Surface · Engineering Quality, Testing & Coding Workflows |
+| 🧭 **Coverage** | Self-Hosted Apps & Data Sovereignty · Agent Testing, Internet & Memory Infrastructure · Hard Engineering & AI Specialist Teams |
 
 </td>
 </tr>
@@ -111,7 +111,7 @@ Organized by `year/month`, all preserved for easy browsing.
 
 | Month | Count | Browse |
 | --- | --- | --- |
-| October 2026 | 5 reports | [Enter →](./2026/10/) |
+| October 2026 | 6 reports | [Enter →](./2026/10/) |
 | September 2026 | 26 reports | [Enter →](./2026/09/) |
 | August 2026 | 16 reports | [Enter →](./2026/08/) |
 
