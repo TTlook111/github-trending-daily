@@ -52,14 +52,14 @@ Every report also opens with a **📊 Daily Trend Insight** that connects all 10
 <tr>
 <td>
 
-### 👉 [2026-09-30 · The Agent Tech Stack Solidifies by Layer](./2026/09/2026-09-30.md)
+### 👉 [2026-10-08 · AI Agent Engineering Explodes Full-Stack](./2026/10/2026-10-08.md)
 
 | | |
 | --- | --- |
-| 📅 **Date** | 2026-09-30 |
-| 🧩 **Theme** | The Agent Tech Stack Solidifies by Layer |
+| 📅 **Date** | 2026-10-08 |
+| 🧩 **Theme** | AI Agent Engineering Explodes Full-Stack |
 | 📦 **Projects** | 10 |
-| 🗺️ **Coverage** | Secure Agent Runtime, Memory & Retrieval · Multi-Agent Orchestration & AI Office · Deployment & Open-Source Education |
+| 🗺️ **Coverage** | Agent Skills & Memory · MCP-Powered Tool Automation · Traditional Dev Tools Open Source |
 
 </td>
 </tr>
@@ -73,6 +73,7 @@ Organized by `year/month`, all preserved for browsing.
 
 | Month | Issues | Browse |
 | --- | --- | --- |
+| October 2026 | 1 | [Enter →](./2026/10/) |
 | September 2026 | 29 | [Enter →](./2026/09/) |
 | August 2026 | 16 | [Enter →](./2026/08/) |
 
