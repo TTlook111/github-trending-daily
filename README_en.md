@@ -52,14 +52,14 @@ Every report also opens with a **📊 Daily Trend Insight** that connects all 10
 <tr>
 <td>
 
-### 👉 [2026-10-08 · AI Agent Engineering Explodes Full-Stack](./2026/10/2026-10-08.md)
+### 👉 [2026-10-09 · MCP Tool Automation & Creative Engineering](./2026/10/2026-10-09.md)
 
 | | |
 | --- | --- |
-| 📅 **Date** | 2026-10-08 |
-| 🧩 **Theme** | AI Agent Engineering Explodes Full-Stack |
+| 📅 **Date** | 2026-10-09 |
+| 🧩 **Theme** | MCP Tool Automation & Creative Engineering |
 | 📦 **Projects** | 10 |
-| 🗺️ **Coverage** | Agent Skills & Memory · MCP-Powered Tool Automation · Traditional Dev Tools Open Source |
+| 🗺️ **Coverage** | MCP Tool Automation · AI Creative Tool Engineering · Agent Skills & Memory |
 
 </td>
 </tr>
@@ -73,7 +73,7 @@ Organized by `year/month`, all preserved for browsing.
 
 | Month | Issues | Browse |
 | --- | --- | --- |
-| October 2026 | 1 | [Enter →](./2026/10/) |
+| October 2026 | 9 | [Enter →](./2026/10/) |
 | September 2026 | 29 | [Enter →](./2026/09/) |
 | August 2026 | 16 | [Enter →](./2026/08/) |
 
