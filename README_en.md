@@ -52,14 +52,14 @@ Every report also opens with a **📊 Daily Trend Insight** that connects all 10
 <tr>
 <td>
 
-### 👉 [2026-10-10 · MCP Agent Tools Explode & AI Engineering Lands](./2026/10/2026-10-10.md)
+### 👉 [2026-10-12 · Record-Breaking MCP Reverse-Engineering & Local Open-Source Alternatives](./2026/10/2026-10-12.md)
 
 | | |
 | --- | --- |
-| 📅 **Date** | 2026-10-10 |
-| 🧩 **Theme** | MCP Agent Tools Explode & AI Engineering Lands |
+| 📅 **Date** | 2026-10-12 |
+| 🧩 **Theme** | Record-Breaking MCP Reverse-Engineering & Local Open-Source Alternatives |
 | 📦 **Projects** | 10 |
-| 🗺️ **Coverage** | MCP Tool Automation · AI Code Review Engineering · AI Creative Tools |
+| 🗺️ **Coverage** | MCP Tool Automation · Local Open-Source SaaS Alternatives · Low-VRAM Inference & Live Geospatial AI |
 
 </td>
 </tr>
@@ -73,7 +73,7 @@ Organized by `year/month`, all preserved for browsing.
 
 | Month | Issues | Browse |
 | --- | --- | --- |
-| October 2026 | 10 | [Enter →](./2026/10/) |
+| October 2026 | 11 | [Enter →](./2026/10/) |
 | September 2026 | 29 | [Enter →](./2026/09/) |
 | August 2026 | 16 | [Enter →](./2026/08/) |
 
