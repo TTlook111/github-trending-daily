@@ -52,14 +52,14 @@ Every report also opens with a **📊 Daily Trend Insight** that connects all 10
 <tr>
 <td>
 
-### 👉 [2026-10-13 · MCP Ecosystem Explodes & AI Infra Efficiency Revolution](./2026/10/2026-10-13.md)
+### 👉 [2026-10-14 · MCP Ecosystem Surges & AI Tools Go Local](./2026/10/2026-10-14.md)
 
 | | |
 | --- | --- |
-| 📅 **Date** | 2026-10-13 |
-| 🧩 **Theme** | MCP Ecosystem Explodes & AI Infra Efficiency Revolution |
+| 📅 **Date** | 2026-10-14 |
+| 🧩 **Theme** | MCP Ecosystem Surges & AI Tools Go Local |
 | 📦 **Projects** | 10 |
-| 🗺️ **Coverage** | MCP Full-Stack · AI Inference Efficiency · AI Creative Tools |
+| 🗺️ **Coverage** | MCP Full-Stack · Local AI Voice & Inference · Cross-Platform Dev Tools |
 
 </td>
 </tr>
@@ -73,7 +73,7 @@ Organized by `year/month`, all preserved for browsing.
 
 | Month | Issues | Browse |
 | --- | --- | --- |
-| October 2026 | 12 | [Enter →](./2026/10/) |
+| October 2026 | 13 | [Enter →](./2026/10/) |
 | September 2026 | 29 | [Enter →](./2026/09/) |
 | August 2026 | 16 | [Enter →](./2026/08/) |
 
