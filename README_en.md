@@ -52,14 +52,14 @@ Every report also opens with a **📊 Daily Trend Insight** that connects all 10
 <tr>
 <td>
 
-### 👉 [2026-10-14 · MCP Ecosystem Surges & AI Tools Go Local](./2026/10/2026-10-14.md)
+### 👉 [2026-10-16 · Agent App Stores Take Shape & Cost Toolchains Deepen](./2026/10/2026-10-16.md)
 
 | | |
 | --- | --- |
-| 📅 **Date** | 2026-10-14 |
-| 🧩 **Theme** | MCP Ecosystem Surges & AI Tools Go Local |
+| 📅 **Date** | 2026-10-16 |
+| 🧩 **Theme** | Agent App Stores Take Shape & Cost Toolchains Deepen |
 | 📦 **Projects** | 10 |
-| 🗺️ **Coverage** | MCP Full-Stack · Local AI Voice & Inference · Cross-Platform Dev Tools |
+| 🗺️ **Coverage** | Agent Skills & Plugin Marketplaces · Cost & Context Engineering · Agents + Pro Tools |
 
 </td>
 </tr>
@@ -73,7 +73,7 @@ Organized by `year/month`, all preserved for browsing.
 
 | Month | Issues | Browse |
 | --- | --- | --- |
-| October 2026 | 14 | [Enter →](./2026/10/) |
+| October 2026 | 15 | [Enter →](./2026/10/) |
 | September 2026 | 29 | [Enter →](./2026/09/) |
 | August 2026 | 16 | [Enter →](./2026/08/) |
 
