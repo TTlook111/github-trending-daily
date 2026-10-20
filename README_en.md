@@ -52,14 +52,14 @@ Every report also opens with a **📊 Daily Trend Insight** that connects all 10
 <tr>
 <td>
 
-### 👉 [2026-10-19 · Agents Go Fleet-Scale as Official Platforms Launch](./2026/10/2026-10-19.md)
+### 👉 [2026-10-20 · The Agent Race Shifts to Cost, Memory & Interfaces](./2026/10/2026-10-20.md)
 
 | | |
 | --- | --- |
-| 📅 **Date** | 2026-10-19 |
-| 🧩 **Theme** | Agents Go Fleet-Scale as Official Platforms Launch |
+| 📅 **Date** | 2026-10-20 |
+| 🧩 **Theme** | The Agent Race Shifts to Cost, Memory & Interfaces |
 | 📦 **Projects** | 10 |
-| 🗺️ **Coverage** | Multi-agent Orchestration · Official Plugin Marketplaces · Memory & Interface Layer |
+| 🗺️ **Coverage** | Multi-agent Orchestration · Agent Cost/Memory/Interface Layer · Local Generation & Vertical Models |
 
 </td>
 </tr>
@@ -73,7 +73,7 @@ Organized by `year/month`, all preserved for browsing.
 
 | Month | Issues | Browse |
 | --- | --- | --- |
-| October 2026 | 16 | [Enter →](./2026/10/) |
+| October 2026 | 19 | [Enter →](./2026/10/) |
 | September 2026 | 29 | [Enter →](./2026/09/) |
 | August 2026 | 16 | [Enter →](./2026/08/) |
 
