@@ -52,14 +52,14 @@ Every report also opens with a **📊 Daily Trend Insight** that connects all 10
 <tr>
 <td>
 
-### 👉 [2026-10-21 · The Skill Wave: Agent Capabilities Packaged as Cross-Harness Skills](./2026/10/2026-10-21.md)
+### 👉 [2026-10-22 · Skills Continue, Cost Engineering & Vertical Rebuilds Emerge](./2026/10/2026-10-22.md)
 
 | | |
 | --- | --- |
-| 📅 **Date** | 2026-10-21 |
-| 🧩 **Theme** | The Skill Wave: Agent Capabilities Packaged as Cross-Harness Skills |
+| 📅 **Date** | 2026-10-22 |
+| 🧩 **Theme** | Skills Continue, Cost Engineering & Vertical Rebuilds Emerge |
 | 📦 **Projects** | 10 |
-| 🗺️ **Coverage** | Agent Skill Ecosystem · Orchestration & Cost · Local & Vertical Models |
+| 🗺️ **Coverage** | Agent Skill Ecosystem · Inference & Context Cost Engineering · End-to-End Vertical Rebuilds |
 
 </td>
 </tr>
@@ -73,7 +73,7 @@ Organized by `year/month`, all preserved for browsing.
 
 | Month | Issues | Browse |
 | --- | --- | --- |
-| October 2026 | 20 | [Enter →](./2026/10/) |
+| October 2026 | 21 | [Enter →](./2026/10/) |
 | September 2026 | 29 | [Enter →](./2026/09/) |
 | August 2026 | 16 | [Enter →](./2026/08/) |
 
