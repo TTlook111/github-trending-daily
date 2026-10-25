@@ -52,14 +52,14 @@ Every report also opens with a **📊 Daily Trend Insight** that connects all 10
 <tr>
 <td>
 
-### 👉 [2026-10-24 · Skills as Expertise & Agent Runtime Safety](./2026/10/2026-10-24.md)
+### 👉 [2026-10-25 · Reclaiming Hijacked UX & Solid Engineering Tools](./2026/10/2026-10-25.md)
 
 | | |
 | --- | --- |
-| 📅 **Date** | 2026-10-24 |
-| 🧩 **Theme** | Skills as Expertise & Agent Runtime Safety |
+| 📅 **Date** | 2026-10-25 |
+| 🧩 **Theme** | Reclaiming Hijacked UX & Solid Engineering Tools |
 | 📦 **Projects** | 10 |
-| 🧭 **Coverage** | Coding-Agent Skills (Security/Design/Tutorial) · Agent Runtime Isolation & Governance · Embodied Robotics & Data Backbone |
+| 🧭 **Coverage** | Ad-free Smart-TV Launchers · Security/Reverse-Engineering & CVE Offense-Defense · Disk/Type/3D/Office Engineering Tools |
 
 </td>
 </tr>
@@ -111,7 +111,7 @@ Organized by `year/month`, all preserved for easy browsing.
 
 | Month | Count | Browse |
 | --- | --- | --- |
-| October 2026 | 18 reports | [Enter →](./2026/10/) |
+| October 2026 | 19 reports | [Enter →](./2026/10/) |
 | September 2026 | 29 reports | [Enter →](./2026/09/) |
 | August 2026 | 16 reports | [Enter →](./2026/08/) |
 
