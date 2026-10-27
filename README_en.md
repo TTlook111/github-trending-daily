@@ -52,14 +52,14 @@ Every report also opens with a **📊 Daily Trend Insight** that connects all 10
 <tr>
 <td>
 
-### 👉 [2026-10-23 · Skill Density Peaks, Anthropic's Official Plugin Marketplace Arrives](./2026/10/2026-10-23.md)
+### 👉 [2026-10-27 · Design Skills Accelerate, Agents Grow from Plugins into Workbenches](./2026/10/2026-10-27.md)
 
 | | |
 | --- | --- |
-| 📅 **Date** | 2026-10-23 |
-| 🧩 **Theme** | Skill Density Peaks, Anthropic's Official Plugin Marketplace Arrives |
-| 📦 **Projects** | 9 (only 9 on today's trending list) |
-| 🗺️ **Coverage** | Agent Skill/Plugin Ecosystem · Platform-Defined Standards · Classic Infrastructure Resurfaces |
+| 📅 **Date** | 2026-10-27 |
+| 🧩 **Theme** | Design Skills Accelerate, Agents Grow from Plugins into Workbenches |
+| 📦 **Projects** | 10 |
+| 🗺️ **Coverage** | Agent Taste/Design Skills · Agentic IDEs & Multi-Harness Workbenches · Local Multimodal & Embodied AI |
 
 </td>
 </tr>
@@ -73,7 +73,7 @@ Organized by `year/month`, all preserved for browsing.
 
 | Month | Issues | Browse |
 | --- | --- | --- |
-| October 2026 | 23 | [Enter →](./2026/10/) |
+| October 2026 | 26 | [Enter →](./2026/10/) |
 | September 2026 | 29 | [Enter →](./2026/09/) |
 | August 2026 | 16 | [Enter →](./2026/08/) |
 
