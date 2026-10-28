@@ -52,14 +52,14 @@ Every report also opens with a **📊 Daily Trend Insight** that connects all 10
 <tr>
 <td>
 
-### 👉 [2026-10-27 · Design Skills Accelerate, Agents Grow from Plugins into Workbenches](./2026/10/2026-10-27.md)
+### 👉 [2026-10-28 · Design Skills Become a Category, a Cloud-Drive Script Tops the Chart](./2026/10/2026-10-28.md)
 
 | | |
 | --- | --- |
-| 📅 **Date** | 2026-10-27 |
-| 🧩 **Theme** | Design Skills Accelerate, Agents Grow from Plugins into Workbenches |
+| 📅 **Date** | 2026-10-28 |
+| 🧩 **Theme** | Design Skills Become a Category, a Cloud-Drive Script Tops the Chart |
 | 📦 **Projects** | 10 |
-| 🗺️ **Coverage** | Agent Taste/Design Skills · Agentic IDEs & Multi-Harness Workbenches · Local Multimodal & Embodied AI |
+| 🗺️ **Coverage** | Agent Design Skills · Multi-Harness Workbenches & Data Access · Vertical Multi-Agent Apps (Finance/Education) · Local Voice AI |
 
 </td>
 </tr>
@@ -73,7 +73,7 @@ Organized by `year/month`, all preserved for browsing.
 
 | Month | Issues | Browse |
 | --- | --- | --- |
-| October 2026 | 26 | [Enter →](./2026/10/) |
+| October 2026 | 27 | [Enter →](./2026/10/) |
 | September 2026 | 29 | [Enter →](./2026/09/) |
 | August 2026 | 16 | [Enter →](./2026/08/) |
 
