@@ -111,7 +111,7 @@ Organized by `year/month`, all preserved for easy browsing.
 
 | Month | Count | Browse |
 | --- | --- | --- |
-| October 2026 | 25 reports | [Enter →](./2026/10/) |
+| October 2026 | 30 reports | [Enter →](./2026/10/) |
 | September 2026 | 29 reports | [Enter →](./2026/09/) |
 | August 2026 | 16 reports | [Enter →](./2026/08/) |
 
@@ -125,10 +125,12 @@ Organized by `year/month`, all preserved for easy browsing.
 github-trending-daily/
 ├── README.md          # Project description (Chinese)
 ├── README_en.md       # Project description (English, this file)
+├── CLAUDE.md          # AI maintenance guide
 ├── LICENSE            # MIT License
 └── 2026/
     ├── 08/            # August 2026
-    └── 09/            # September 2026
+    ├── 09/            # September 2026
+    └── 10/            # October 2026
         └── YYYY-MM-DD.md   # 📅 Daily trend reports
 ```
 
