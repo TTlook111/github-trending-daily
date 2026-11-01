@@ -52,14 +52,14 @@ Every report also opens with a **📊 Daily Trend Insight** that connects all 10
 <tr>
 <td>
 
-### 👉 [2026-10-31 · Taste, Memory & a Computer for Every Agent](./2026/10/2026-10-31.md)
+### 👉 [2026-11-01 · Agent Orchestration: The Control Layer Takes Over](./2026/11/2026-11-01.md)
 
 | | |
 | --- | --- |
-| 📅 **Date** | 2026-10-31 |
-| 🧩 **Theme** | Taste, Memory & a Computer for Every Agent |
+| 📅 **Date** | 2026-11-01 |
+| 🧩 **Theme** | Agent Orchestration: The Control Layer Takes Over |
 | 📦 **Projects** | 10 |
-| 🧭 **Coverage** | Design-Taste & Anti-Slop Skills · Agent Memory & Learning Workspaces · Local-First Multi-Agent Coworker Platforms |
+| 🧭 **Coverage** | Agent Orchestration & Control Surfaces · Cross-Session Memory & Skills Engineering · Agent-Native Infrastructure |
 
 </td>
 </tr>
@@ -111,6 +111,7 @@ Organized by `year/month`, all preserved for easy browsing.
 
 | Month | Count | Browse |
 | --- | --- | --- |
+| November 2026 | 1 report | [Enter →](./2026/11/) |
 | October 2026 | 30 reports | [Enter →](./2026/10/) |
 | September 2026 | 29 reports | [Enter →](./2026/09/) |
 | August 2026 | 16 reports | [Enter →](./2026/08/) |
@@ -130,7 +131,8 @@ github-trending-daily/
 └── 2026/
     ├── 08/            # August 2026
     ├── 09/            # September 2026
-    └── 10/            # October 2026
+    ├── 10/            # October 2026
+    └── 11/            # November 2026
         └── YYYY-MM-DD.md   # 📅 Daily trend reports
 ```
 
