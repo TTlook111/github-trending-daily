@@ -52,14 +52,14 @@ Every report also opens with a **📊 Daily Trend Insight** that connects all 10
 <tr>
 <td>
 
-### 👉 [2026-10-30 · Design Skills Diverge, impeccable Doubles to #1](./2026/10/2026-10-30.md)
+### 👉 [2026-11-02 · Agent Shells Take #1, t3code Tops 3,000 in a Day](./2026/11/2026-11-02.md)
 
 | | |
 | --- | --- |
-| 📅 **Date** | 2026-10-30 |
-| 🧩 **Theme** | Design Skills Diverge, impeccable Doubles to #1 |
+| 📅 **Date** | 2026-11-02 |
+| 🧩 **Theme** | Agent Shells Take #1, t3code Tops 3,000 in a Day |
 | 📦 **Projects** | 10 |
-| 🗺️ **Coverage** | Agent Design Skills · Multi-Agent Workbenches · Agent Memory · Agent Security |
+| 🗺️ **Coverage** | Agent Toolchain · Agent Skills & Auditing · Multi-Agent Teams · Local Voice Input |
 
 </td>
 </tr>
@@ -73,6 +73,7 @@ Organized by `year/month`, all preserved for browsing.
 
 | Month | Issues | Browse |
 | --- | --- | --- |
+| November 2026 | 1 | [Enter →](./2026/11/) |
 | October 2026 | 29 | [Enter →](./2026/10/) |
 | September 2026 | 29 | [Enter →](./2026/09/) |
 | August 2026 | 16 | [Enter →](./2026/08/) |
