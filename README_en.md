@@ -119,7 +119,7 @@ Organized by `year/month`, all preserved for browsing.
 
 ## 🚀 Quick Start
 
-> ⏳ The automated collection script is under development — stay tuned. Reports are currently produced through human + AI collaboration.
+> Reports are produced through human + AI collaboration. There is no automated collection or report-generation script yet. The Release workflow only distributes existing archived reports.
 
 ```bash
 # Clone the repository
@@ -130,6 +130,14 @@ cd github-trending-daily
 ```
 
 You can also just click the "Latest Report" link above to read it on the web — no clone required.
+
+---
+
+## 📣 Per-issue Releases
+
+Each issue uses a fixed `daily-YYYY-MM-DD` tag. Maintainers manually trigger validation of the archived report and creation of a draft, then review and publish it separately. The workflow neither generates reports nor publishes them automatically.
+
+See the [Release guide (Chinese)](./docs/RELEASING.md) for the first experiment, daily process, duplicate detection, and retries. Readers can choose Releases under Watch → Custom.
 
 ---
 
@@ -154,7 +162,8 @@ github-trending-daily/
 ## 🧭 Roadmap
 
 - [ ] Automated GitHub Trending data collection
-- [ ] GitHub Actions scheduled workflow to auto-generate daily reports
+- [ ] Merge the draft Release workflow and verify the first run (see guide)
+- [ ] Evaluate automatic draft preparation after content production and review are stable
 - [ ] Trend aggregation: weekly / monthly summaries
 - [ ] Project categorization & multi-language support
 
@@ -177,3 +186,4 @@ If you find this repository helpful, feel free to give it a **Star** ⭐ or foll
 **[⬆ Back to top](#-github-trending-daily)**
 
 </div>
+

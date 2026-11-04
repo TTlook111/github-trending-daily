@@ -119,7 +119,7 @@
 
 ## 🚀 快速开始
 
-> ⏳ 自动化抓取脚本开发中，敬请期待。目前报告以人工 + AI 协作方式产出。
+> 报告以人工 + AI 协作方式产出，尚无自动化抓取或日报生成脚本。Release 工作流只分发已经归档的报告。
 
 ```bash
 # 克隆仓库
@@ -130,6 +130,14 @@ cd github-trending-daily
 ```
 
 也可以直接在网页上点开上方「最新一期」的链接阅读，无需克隆。
+
+---
+
+## 📣 每期 Release
+
+使用 `daily-YYYY-MM-DD` 固定标记每一期。维护者手动触发工作流校验已归档日报并创建草稿，审阅确认后再公开发布；不会自动生成日报或自动公开发布。
+
+详见 [Release 发布指南](./docs/RELEASING.md)，包括首次实验、每日流程、去重与重跑规则。读者可在仓库 Watch → Custom 中选择 Releases。
 
 ---
 
@@ -154,7 +162,8 @@ github-trending-daily/
 ## 🧭 Roadmap
 
 - [ ] 自动化抓取 GitHub Trending 数据
-- [ ] GitHub Actions 定时任务，每日自动生成报告
+- [ ] Release 草稿工作流合并并完成首次验证（见发布指南）
+- [ ] 在内容产出与审核流程稳定后评估自动准备草稿
 - [ ] 趋势汇总：周报 / 月报
 - [ ] 项目分类与多语言支持
 
@@ -177,3 +186,4 @@ github-trending-daily/
 **[⬆ 回到顶部](#-github-trending-daily)**
 
 </div>
+
