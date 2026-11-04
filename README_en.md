@@ -11,8 +11,7 @@
   <a href="./README.md">中文</a> · <strong>English</strong><br><br>
   <a href="#latest">Latest report</a> ·
   <a href="#archive">Browse the archive</a> ·
-  <a href="#inside">Inside a report</a> ·
-  <a href="#releases">Releases</a>
+  <a href="#inside">Inside a report</a>
 </p>
 
 <p align="center"><a href="./LICENSE">MIT License</a> · Human + AI collaboration · Reports are written in Chinese</p>
@@ -112,18 +111,6 @@ cd github-trending-daily
 
 > Reports are produced through **human + AI collaboration**. There is no automated Trending collection or report-generation script yet. This English README is a project guide; the reports themselves are in Chinese.
 
-<a id="releases"></a>
-
-## 📣 Per-issue Releases
-
-**Archived report → manual trigger → draft → review → publication**
-
-Each issue uses a fixed `daily-YYYY-MM-DD` tag. The workflow validates an existing report and prepares a draft; it does **not** generate reports, update the README, or publish automatically.
-
-Browse [Releases](https://github.com/TTlook111/github-trending-daily/releases), or choose **Watch → Custom → Releases** to follow published issues. Notifications depend on your GitHub settings.
-
-Maintainers: see the [Release guide (Chinese)](./docs/RELEASING.md) for first-run verification, review, duplicate detection and retries.
-
 ## 📂 Project Structure
 
 ```text
@@ -138,14 +125,6 @@ github-trending-daily/
 ├── .github/workflows/daily-release.yml
 └── LICENSE                   # MIT
 ```
-
-## 🧭 Roadmap
-
-- [ ] Automated GitHub Trending data collection
-- [x] Manually prepare Release drafts ([first run verified](https://github.com/TTlook111/github-trending-daily/actions/runs/41766630473))
-- [ ] Evaluate automatic draft preparation after content production and review are stable
-- [ ] Trend aggregation: weekly / monthly summaries
-- [ ] Project categorization & multi-language support
 
 ## 📄 Disclaimer
 

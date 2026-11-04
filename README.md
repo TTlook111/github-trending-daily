@@ -11,8 +11,7 @@
   <strong>中文</strong> · <a href="./README_en.md">English</a><br><br>
   <a href="#latest">阅读最新一期</a> ·
   <a href="#archive">浏览往期</a> ·
-  <a href="#inside">报告长什么样</a> ·
-  <a href="#releases">Release 订阅</a>
+  <a href="#inside">报告长什么样</a>
 </p>
 
 <p align="center"><a href="./LICENSE">MIT License</a> · 人工 + AI 协作 · 中文日报</p>
@@ -112,18 +111,6 @@ cd github-trending-daily
 
 > 报告由**人工 + AI 协作**产出，目前没有自动化抓取或日报生成脚本。英文 README 提供项目说明，日报正文仍以中文撰写。
 
-<a id="releases"></a>
-
-## 📣 每期 Release
-
-**日报归档 → 手动触发 → 生成草稿 → 审阅确认 → 公开发布**
-
-每期使用固定标签 `daily-YYYY-MM-DD`。工作流校验已有日报并准备草稿，**不会自动生成日报、更新 README 或公开发布**。
-
-可浏览 [Releases](https://github.com/TTlook111/github-trending-daily/releases)，或在仓库 **Watch → Custom → Releases** 中订阅已发布的期数，具体通知取决于你的 GitHub 设置。
-
-维护者请参阅 [Release 发布指南](./docs/RELEASING.md)，了解首次验证、审阅、去重与重跑规则。
-
 ## 📂 目录结构
 
 ```text
@@ -138,14 +125,6 @@ github-trending-daily/
 ├── .github/workflows/daily-release.yml
 └── LICENSE                    # MIT
 ```
-
-## 🧭 Roadmap
-
-- [ ] 自动化抓取 GitHub Trending 数据
-- [x] 手动准备 Release 草稿（[首次运行已通过](https://github.com/TTlook111/github-trending-daily/actions/runs/41766630473)）
-- [ ] 在内容产出与审核流程稳定后评估自动准备草稿
-- [ ] 趋势汇总：周报 / 月报
-- [ ] 项目分类与多语言支持
 
 ## 📄 免责声明
 
