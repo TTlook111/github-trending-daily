@@ -119,10 +119,6 @@ github-trending-daily/
 ├── 2026/MM/YYYY-MM-DD.md      # Archived Chinese reports
 ├── assets/                   # Local README artwork
 ├── CLAUDE.md                 # Editorial rules and daily update checklist
-├── docs/RELEASING.md          # Release process
-├── scripts/prepare_release.py
-├── tests/test_prepare_release.py
-├── .github/workflows/daily-release.yml
 └── LICENSE                   # MIT
 ```
 

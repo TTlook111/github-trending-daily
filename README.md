@@ -119,10 +119,6 @@ github-trending-daily/
 ├── 2026/MM/YYYY-MM-DD.md      # 中文日报归档
 ├── assets/                   # README 本地插图
 ├── CLAUDE.md                  # 写作规范与每日更新清单
-├── docs/RELEASING.md          # Release 发布流程
-├── scripts/prepare_release.py
-├── tests/test_prepare_release.py
-├── .github/workflows/daily-release.yml
 └── LICENSE                    # MIT
 ```
 
