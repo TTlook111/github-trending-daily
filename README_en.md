@@ -101,9 +101,9 @@ Organized by `year/month`, all preserved for browsing.
 
 ## 🚀 Quick Start
 
-**Read online:** open the latest report above, or pick a month from the archive. No installation or account setup is needed to read the public files.
+**Read online**: open the latest report above, or pick a month from the archive. No installation or account setup is needed to read the public files.
 
-**Read locally:** clone the archive and open any dated Markdown report.
+**Read locally**: clone the archive and open any dated Markdown report.
 
 ```bash
 git clone https://github.com/TTlook111/github-trending-daily.git
