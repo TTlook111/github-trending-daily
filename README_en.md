@@ -57,14 +57,14 @@ Every report also opens with a **📊 Daily Trend Insight** that connects all 10
 <tr>
 <td>
 
-### 👉 [2026-11-03 · Agents Learn to Drive the Desktop, agent-desktop Jumps to #2](./2026/11/2026-11-03.md)
+### 👉 [2026-11-04 · agent-desktop Takes #1, Coding Agents Become Domain Studios](./2026/11/2026-11-04.md)
 
 | | |
 | --- | --- |
-| 📅 **Date** | 2026-11-03 |
-| 🧩 **Theme** | Agents Learn to Drive the Desktop, agent-desktop Jumps to #2 |
+| 📅 **Date** | 2026-11-04 |
+| 🧩 **Theme** | agent-desktop Takes #1, Coding Agents Become Domain Studios |
 | 📦 **Projects** | 10 |
-| 🗺️ **Coverage** | Agent Desktop Control · Agent Shells & Memory · Skills & Configs · Local Voice Input |
+| 🗺️ **Coverage** | Agent Desktop Control · Agent Domain Studios · Memory & Skills · Local Inference & Model Gateways |
 
 </td>
 </tr>
@@ -108,7 +108,7 @@ Organized by `year/month`, all preserved for browsing.
 
 | Month | Issues | Browse |
 | --- | --- | --- |
-| November 2026 | 3 | [Enter →](./2026/11/) |
+| November 2026 | 4 | [Enter →](./2026/11/) |
 | October 2026 | 30 | [Enter →](./2026/10/) |
 | September 2026 | 29 | [Enter →](./2026/09/) |
 | August 2026 | 16 | [Enter →](./2026/08/) |
