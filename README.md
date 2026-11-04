@@ -1,7 +1,7 @@
 <a id="top"></a>
 
 <p align="center">
-  <img src="./assets/readme-banner.svg" width="100%" alt="GitHub Trending Daily — 发现项目，理解技术，汲取灵感" />
+  <img src="./assets/readme-cover.webp" width="100%" alt="开源阅读室：书页、代码窗口与星空观测台，连接项目与灵感" />
 </p>
 
 <h1 align="center">GitHub Trending Daily</h1>

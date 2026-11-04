@@ -1,7 +1,7 @@
 <a id="top"></a>
 
 <p align="center">
-  <img src="./assets/readme-banner.svg" width="100%" alt="GitHub Trending Daily — discover, understand, build" />
+  <img src="./assets/readme-cover.webp" width="100%" alt="An open-source reading room: books, code windows and an observatory connecting projects and ideas" />
 </p>
 
 <h1 align="center">GitHub Trending Daily</h1>
