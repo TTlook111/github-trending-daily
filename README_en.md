@@ -1,62 +1,29 @@
-<div align="center">
+<a id="top"></a>
 
-**English** | **[中文](./README.md)**
+<p align="center">
+  <img src="./assets/readme-banner.svg" width="100%" alt="GitHub Trending Daily — discover, understand, build" />
+</p>
 
-<br>
+<h1 align="center">GitHub Trending Daily</h1>
+<p align="center"><strong>From trending repositories to ideas worth building on.</strong><br>10 projects per issue · In-depth Chinese breakdowns · A browsable archive</p>
 
-# 🔥 GitHub Trending Daily
+<p align="center">
+  <a href="./README.md">中文</a> · <strong>English</strong><br><br>
+  <a href="#latest">Latest report</a> ·
+  <a href="#archive">Browse the archive</a> ·
+  <a href="#inside">Inside a report</a> ·
+  <a href="#releases">Releases</a>
+</p>
 
-### A daily Chinese digest of GitHub's hottest repos
-
-> Curated **Top 10** trending projects — explaining **what** each one is, **why it's good**, and **why it's worth your attention**.
-> Not machine-translated blurbs, but deep, borrowable breakdowns.
-
-<br>
-
-<!-- Dynamic badges: live repo stats -->
-[![Stars](https://img.shields.io/github/stars/TTlook111/github-trending-daily?style=for-the-badge&logo=github&color=ffca28)](https://github.com/TTlook111/github-trending-daily/stargazers)
-[![Last Commit](https://img.shields.io/github/last-commit/TTlook111/github-trending-daily?style=for-the-badge&color=2ea44f)](https://github.com/TTlook111/github-trending-daily/commits)
-[![Repo Size](https://img.shields.io/github/repo-size/TTlook111/github-trending-daily?style=for-the-badge&color=3776AB)](https://github.com/TTlook111/github-trending-daily)
-
-![Update](https://img.shields.io/badge/Update-Daily-2ea44f?style=flat-square)
-![Report Language](https://img.shields.io/badge/Report-Chinese-3776AB?style=flat-square)
-![License](https://img.shields.io/badge/License-MIT-8A2BE2?style=flat-square)
-
-<br>
-
-**[📌 Latest Report](#-latest-report)** · **[📄 What a Report Looks Like](#-what-a-report-looks-like)** · **[📅 Past Reports](#-past-reports)** · **[🚀 Quick Start](#-quick-start)** · **[🧭 Roadmap](#-roadmap)**
-
-</div>
+<p align="center"><a href="./LICENSE">MIT License</a> · Human + AI collaboration · Reports are written in Chinese</p>
 
 ---
 
-## 🤔 Why This Repo Exists
-
-Every day a new batch of projects shows up on GitHub Trending, but the list only gives you a **repo name + a one-line description**.
-
-So the usual questions are: What problem does it actually solve? Why did it suddenly blow up? Is it worth spending time reading its code?
-
-This repo does one thing every day: **explain the 10 most noteworthy projects on that day's Trending list, clearly, in Chinese.**
-
-Each report goes beyond translating the description — it answers four questions:
-
-| | You'll see |
-| --- | --- |
-| 🎯 **What it is** | Understand what the project does in one sentence, no jargon pile-up |
-| 📖 **How it works** | 2-3 paragraphs on core mechanics, tech stack, and real data |
-| 💡 **What's good about it** | **Borrowable** ideas from engineering, architecture & product angles |
-| ✨ **Why it matters** | Innovation points, industry value, and what it signals about trends |
-
-Every report also opens with a **📊 Daily Trend Insight** that connects all 10 projects — one project is a coincidence, ten together point to a direction.
-
----
+<a id="latest"></a>
 
 ## 📌 Latest Report
 
-<table>
-<tr>
-<td>
-
+<!-- Maintenance: update the link and all four fields below with each new issue, in both READMEs. -->
 ### 👉 [2026-11-04 · agent-desktop Takes #1, Coding Agents Become Domain Studios](./2026/11/2026-11-04.md)
 
 | | |
@@ -66,15 +33,24 @@ Every report also opens with a **📊 Daily Trend Insight** that connects all 10
 | 📦 **Projects** | 10 |
 | 🗺️ **Coverage** | Agent Desktop Control · Agent Domain Studios · Memory & Skills · Local Inference & Model Gateways |
 
-</td>
-</tr>
-</table>
-
----
+<a id="inside"></a>
 
 ## 📄 What a Report Looks Like
 
-Below is an excerpt of the #1 project from the 2026-09-11 report (translated from the original Chinese):
+**Start with the day's direction, then explore the projects behind it.** Each issue opens with a trend overview, followed by ten project breakdowns.
+
+| Step | What you get |
+| :--- | :--- |
+| **01 · Understand** | The problem a project solves, its core mechanics and technical stack |
+| **02 · Learn** | Ideas to borrow from product thinking, architecture, engineering and community building |
+| **03 · Explore** | What stands out, why it matters, and a direct link to the original repository |
+
+Each project also includes its language, category, total stars and daily star gain. These figures are snapshots from the report date, not live metrics.
+
+<details>
+<summary><strong>Read an example · September 11, 2026</strong></summary>
+
+The excerpt below is translated from the [original Chinese report](./2026/09/2026-09-11.md). Project descriptions and star counts reflect that archived issue.
 
 > ### #1 ayghri/i-have-adhd ⭐
 >
@@ -100,7 +76,13 @@ Below is an excerpt of the #1 project from the 2026-09-11 report (translated fro
 
 Every project follows this structure. 10 projects + the opening trend insight make one complete report.
 
----
+</details>
+
+### How projects are selected
+
+Start with projects gaining **at least 300 stars that day**. If fewer than ten qualify, lower the threshold and fill the remaining places by daily star gain. The final ten are ordered by that same metric. See the [maintenance guide](./CLAUDE.md) for the full editorial format.
+
+<a id="archive"></a>
 
 ## 📅 Past Reports
 
@@ -115,75 +97,60 @@ Organized by `year/month`, all preserved for browsing.
 
 > Report files are named `YYYY-MM-DD.md`. A missing date means no report was produced that day; historical reports are never edited or removed.
 
----
+<a id="start"></a>
 
 ## 🚀 Quick Start
 
-> Reports are produced through human + AI collaboration. There is no automated collection or report-generation script yet. The Release workflow only distributes existing archived reports.
+**Read online:** open the latest report above, or pick a month from the archive. No installation or account setup is needed to read the public files.
+
+**Read locally:** clone the archive and open any dated Markdown report.
 
 ```bash
-# Clone the repository
-git clone git@github.com:TTlook111/github-trending-daily.git
+git clone https://github.com/TTlook111/github-trending-daily.git
 cd github-trending-daily
-
-# Read the latest report (just open 2026/MM/YYYY-MM-DD.md)
 ```
 
-You can also just click the "Latest Report" link above to read it on the web — no clone required.
+> Reports are produced through **human + AI collaboration**. There is no automated Trending collection or report-generation script yet. This English README is a project guide; the reports themselves are in Chinese.
 
----
+<a id="releases"></a>
 
 ## 📣 Per-issue Releases
 
-Each issue uses a fixed `daily-YYYY-MM-DD` tag. Maintainers manually trigger validation of the archived report and creation of a draft, then review and publish it separately. The workflow neither generates reports nor publishes them automatically.
+**Archived report → manual trigger → draft → review → publication**
 
-See the [Release guide (Chinese)](./docs/RELEASING.md) for the first experiment, daily process, duplicate detection, and retries. Readers can choose Releases under Watch → Custom.
+Each issue uses a fixed `daily-YYYY-MM-DD` tag. The workflow validates an existing report and prepares a draft; it does **not** generate reports, update the README, or publish automatically.
 
----
+Browse [Releases](https://github.com/TTlook111/github-trending-daily/releases), or choose **Watch → Custom → Releases** to follow published issues. Notifications depend on your GitHub settings.
+
+Maintainers: see the [Release guide (Chinese)](./docs/RELEASING.md) for first-run verification, review, duplicate detection and retries.
 
 ## 📂 Project Structure
 
-```
+```text
 github-trending-daily/
-├── README.md          # Project description (Chinese)
-├── README_en.md       # Project description (English, this file)
-├── CLAUDE.md          # AI maintenance guide
-├── LICENSE            # MIT License
-└── 2026/
-    ├── 08/            # August 2026
-    ├── 09/            # September 2026
-    ├── 10/            # October 2026
-    └── 11/            # November 2026
-        └── YYYY-MM-DD.md   # 📅 Daily trend reports
+├── README.md / README_en.md   # Chinese / English project guides
+├── 2026/MM/YYYY-MM-DD.md      # Archived Chinese reports
+├── assets/                   # Local README artwork
+├── CLAUDE.md                 # Editorial rules and daily update checklist
+├── docs/RELEASING.md          # Release process
+├── scripts/prepare_release.py
+├── tests/test_prepare_release.py
+├── .github/workflows/daily-release.yml
+└── LICENSE                   # MIT
 ```
-
----
 
 ## 🧭 Roadmap
 
 - [ ] Automated GitHub Trending data collection
-- [ ] Merge the draft Release workflow and verify the first run (see guide)
+- [x] Manually prepare Release drafts ([first run verified](https://github.com/TTlook111/github-trending-daily/actions/runs/41766630473))
 - [ ] Evaluate automatic draft preparation after content production and review are stable
 - [ ] Trend aggregation: weekly / monthly summaries
 - [ ] Project categorization & multi-language support
 
----
-
 ## 📄 Disclaimer
 
-This project is for learning and information sharing purposes only. All featured projects are copyrighted by their respective authors. GitHub is a trademark of [GitHub, Inc.](https://github.com) — this project has no affiliation with it.
+This project is for learning and information sharing. Featured projects belong to their respective authors. GitHub is a trademark of [GitHub, Inc.](https://github.com); this project is not affiliated with GitHub.
 
 ---
 
-<div align="center">
-
-### ⭐ Support
-
-If you find this repository helpful, feel free to give it a **Star** ⭐ or follow along with the daily updates!
-
-<br>
-
-**[⬆ Back to top](#-github-trending-daily)**
-
-</div>
-
+<p align="center"><strong>Find something useful? Give the archive a star.</strong><br>Read for the trends. Stay for the ideas.<br><br><a href="#top">Back to top ↑</a></p>

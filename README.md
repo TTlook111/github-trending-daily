@@ -1,62 +1,29 @@
-<div align="center">
+<a id="top"></a>
 
-**[English](./README_en.md)** | **中文**
+<p align="center">
+  <img src="./assets/readme-banner.svg" width="100%" alt="GitHub Trending Daily — 发现项目，理解技术，汲取灵感" />
+</p>
 
-<br>
+<h1 align="center">GitHub Trending Daily</h1>
+<p align="center"><strong>不止看见热门，更看懂它为什么值得关注。</strong><br>每期 10 个项目 · 中文深度拆解 · 按月归档，随时回看</p>
 
-# 🔥 GitHub Trending Daily
+<p align="center">
+  <strong>中文</strong> · <a href="./README_en.md">English</a><br><br>
+  <a href="#latest">阅读最新一期</a> ·
+  <a href="#archive">浏览往期</a> ·
+  <a href="#inside">报告长什么样</a> ·
+  <a href="#releases">Release 订阅</a>
+</p>
 
-### 每天一份中文 GitHub 热榜日报
-
-> 精选 Top 10 热门项目 —— 讲清它**是什么**、**好在哪**、**为什么值得关注**。
-> 不做机翻简介，只做能看懂、能借鉴的深度拆解。
-
-<br>
-
-<!-- 动态徽章：实时展示仓库数据 -->
-[![Stars](https://img.shields.io/github/stars/TTlook111/github-trending-daily?style=for-the-badge&logo=github&color=ffca28)](https://github.com/TTlook111/github-trending-daily/stargazers)
-[![Last Commit](https://img.shields.io/github/last-commit/TTlook111/github-trending-daily?style=for-the-badge&color=2ea44f)](https://github.com/TTlook111/github-trending-daily/commits)
-[![Repo Size](https://img.shields.io/github/repo-size/TTlook111/github-trending-daily?style=for-the-badge&color=3776AB)](https://github.com/TTlook111/github-trending-daily)
-
-![更新频率](https://img.shields.io/badge/更新-每日-2ea44f?style=flat-square)
-![报告语言](https://img.shields.io/badge/报告-中文-3776AB?style=flat-square)
-![License](https://img.shields.io/badge/License-MIT-8A2BE2?style=flat-square)
-
-<br>
-
-**[📌 最新一期](#-最新一期)** · **[📄 报告长什么样](#-报告长什么样)** · **[📅 往期报告](#-往期报告)** · **[🚀 快速开始](#-快速开始)** · **[🧭 Roadmap](#-roadmap)**
-
-</div>
+<p align="center"><a href="./LICENSE">MIT License</a> · 人工 + AI 协作 · 中文日报</p>
 
 ---
 
-## 🤔 为什么会有这个仓库
-
-每天 GitHub Trending 上都会冒出一批新项目，但榜单只给你**仓库名 + 一句英文简介**。
-
-于是常见的困惑是：它到底解决什么问题？为什么突然就火了？值不值得花时间看它的代码？
-
-这个仓库每天做一件事：**把当天 Trending 上最值得看的 10 个项目，用中文讲清楚。**
-
-每份报告不只是翻译简介，而是回答四个问题：
-
-| | 你会看到 |
-| --- | --- |
-| 🎯 **它是什么** | 一句话看懂项目在做什么，不堆术语 |
-| 📖 **它怎么做的** | 2-3 段拆解核心机制、技术栈与真实数据 |
-| 💡 **好在哪** | 从工程、架构、产品角度提炼**可借鉴**的地方 |
-| ✨ **为什么值得关注** | 点出创新点与行业价值，以及它对趋势意味着什么 |
-
-此外每份报告开头都有 **📊 今日趋势洞察**，把当天 10 个项目串起来看 —— 单看一个项目是巧合，10 个放一起就是方向。
-
----
+<a id="latest"></a>
 
 ## 📌 最新一期
 
-<table>
-<tr>
-<td>
-
+<!-- 维护提示：每期同步更新中英文 README 的链接，以及下方日期、主题、项目数、覆盖方向四项。 -->
 ### 👉 [2026-11-04 · agent-desktop 登顶，编码 Agent 变身领域工作室](./2026/11/2026-11-04.md)
 
 | | |
@@ -66,15 +33,24 @@
 | 📦 **项目数** | 10 个 |
 | 🗺️ **覆盖方向** | Agent 桌面操作 · Agent 领域工作室 · 记忆与技能 · 本地推理与模型网关 |
 
-</td>
-</tr>
-</table>
-
----
+<a id="inside"></a>
 
 ## 📄 报告长什么样
 
-下面是 2026-09-11 报告中排名第一的项目节选：
+**先看趋势，再读项目，最后带走能借鉴的思路。** 每期以总览摘要串起当天的方向，再逐个拆解 10 个项目。
+
+| 阅读顺序 | 你会看到 |
+| :--- | :--- |
+| **01 · 看懂项目** | 它解决什么问题，核心机制与技术栈是什么 |
+| **02 · 借鉴思路** | 从产品、架构、工程化与社区运营中提炼可借鉴的做法 |
+| **03 · 发现亮点** | 它的创新点、值得关注的原因，以及原始仓库入口 |
+
+每个项目还附有语言、分类、总 Stars 与当日新增 Stars。数据记录的是报告当日的快照，并非实时指标。
+
+<details>
+<summary><strong>展开一段真实报告 · 2026-09-11</strong></summary>
+
+以下节选自 [2026-09-11 完整日报](./2026/09/2026-09-11.md)，项目描述与星数均为该期历史记录。
 
 > ### #1 ayghri/i-have-adhd ⭐
 >
@@ -100,7 +76,13 @@
 
 每个项目都是这样的结构，10 个项目 + 开头的趋势洞察，就是一期完整报告。
 
----
+</details>
+
+### 项目怎么选
+
+优先选择**当日新增 Star ≥ 300** 的项目；不足 10 个时放宽阈值，按当日新增 Star 从高到低补齐。最终每期 10 个项目，也按这一指标排序。完整写作规范见 [维护指南](./CLAUDE.md)。
+
+<a id="archive"></a>
 
 ## 📅 往期报告
 
@@ -115,75 +97,60 @@
 
 > 报告文件以 `YYYY-MM-DD.md` 命名。个别日期缺失表示当天未产出，历史报告不做删改。
 
----
+<a id="start"></a>
 
 ## 🚀 快速开始
 
-> 报告以人工 + AI 协作方式产出，尚无自动化抓取或日报生成脚本。Release 工作流只分发已经归档的报告。
+**在线阅读：**直接打开上方最新一期，或从归档表选择月份。阅读公开报告无需安装或配置账号。
+
+**本地阅读：**克隆仓库，打开任意日期的 Markdown 报告即可。
 
 ```bash
-# 克隆仓库
-git clone git@github.com:TTlook111/github-trending-daily.git
+git clone https://github.com/TTlook111/github-trending-daily.git
 cd github-trending-daily
-
-# 阅读最新报告（打开 2026/MM/YYYY-MM-DD.md 即可）
 ```
 
-也可以直接在网页上点开上方「最新一期」的链接阅读，无需克隆。
+> 报告由**人工 + AI 协作**产出，目前没有自动化抓取或日报生成脚本。英文 README 提供项目说明，日报正文仍以中文撰写。
 
----
+<a id="releases"></a>
 
 ## 📣 每期 Release
 
-使用 `daily-YYYY-MM-DD` 固定标记每一期。维护者手动触发工作流校验已归档日报并创建草稿，审阅确认后再公开发布；不会自动生成日报或自动公开发布。
+**日报归档 → 手动触发 → 生成草稿 → 审阅确认 → 公开发布**
 
-详见 [Release 发布指南](./docs/RELEASING.md)，包括首次实验、每日流程、去重与重跑规则。读者可在仓库 Watch → Custom 中选择 Releases。
+每期使用固定标签 `daily-YYYY-MM-DD`。工作流校验已有日报并准备草稿，**不会自动生成日报、更新 README 或公开发布**。
 
----
+可浏览 [Releases](https://github.com/TTlook111/github-trending-daily/releases)，或在仓库 **Watch → Custom → Releases** 中订阅已发布的期数，具体通知取决于你的 GitHub 设置。
+
+维护者请参阅 [Release 发布指南](./docs/RELEASING.md)，了解首次验证、审阅、去重与重跑规则。
 
 ## 📂 目录结构
 
-```
+```text
 github-trending-daily/
-├── README.md          # 项目说明（中文，本文件）
-├── README_en.md       # 项目说明（英文）
-├── CLAUDE.md          # AI 维护指南
-├── LICENSE            # MIT License
-└── 2026/
-    ├── 08/            # 2026 年 8 月
-    ├── 09/            # 2026 年 9 月
-    ├── 10/            # 2026 年 10 月
-    └── 11/            # 2026 年 11 月
-        └── YYYY-MM-DD.md   # 📅 每日趋势报告
+├── README.md / README_en.md   # 中英文项目说明
+├── 2026/MM/YYYY-MM-DD.md      # 中文日报归档
+├── assets/                   # README 本地插图
+├── CLAUDE.md                  # 写作规范与每日更新清单
+├── docs/RELEASING.md          # Release 发布流程
+├── scripts/prepare_release.py
+├── tests/test_prepare_release.py
+├── .github/workflows/daily-release.yml
+└── LICENSE                    # MIT
 ```
-
----
 
 ## 🧭 Roadmap
 
 - [ ] 自动化抓取 GitHub Trending 数据
-- [ ] Release 草稿工作流合并并完成首次验证（见发布指南）
+- [x] 手动准备 Release 草稿（[首次运行已通过](https://github.com/TTlook111/github-trending-daily/actions/runs/41766630473)）
 - [ ] 在内容产出与审核流程稳定后评估自动准备草稿
 - [ ] 趋势汇总：周报 / 月报
 - [ ] 项目分类与多语言支持
 
----
-
 ## 📄 免责声明
 
-本项目内容仅供学习与信息分享，所收录项目的版权归原作者所有。GitHub 是 [GitHub, Inc.](https://github.com) 的商标，本项目与其无任何隶属关系。
+本项目仅供学习与信息分享，所收录项目的版权归原作者所有。GitHub 是 [GitHub, Inc.](https://github.com) 的商标，本项目与其无任何隶属关系。
 
 ---
 
-<div align="center">
-
-### ⭐ 支持一下
-
-如果这个仓库对你有帮助，欢迎点个 **Star** ⭐，或持续关注每日更新！
-
-<br>
-
-**[⬆ 回到顶部](#-github-trending-daily)**
-
-</div>
-
+<p align="center"><strong>发现了有用的项目？欢迎给这份归档一个 Star。</strong><br>看见趋势，也带走灵感。<br><br><a href="#top">回到顶部 ↑</a></p>

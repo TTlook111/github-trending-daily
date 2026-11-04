@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="360" viewBox="0 0 1280 360" role="img" aria-labelledby="title desc">
+  <title id="title">GitHub Trending Daily</title>
+  <desc id="desc">An editorial cover with abstract repository cards. Discover, understand, build.</desc>
+  <defs>
+    <linearGradient id="background" x2="1" y2="1">
+      <stop stop-color="#101d2d"/><stop offset="1" stop-color="#173b45"/>
+    </linearGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" fill="none" stroke="#c5e6df" stroke-opacity=".06"/>
+    </pattern>
+  </defs>
+  <rect width="1280" height="360" rx="20" fill="url(#background)"/>
+  <rect width="1280" height="360" rx="20" fill="url(#grid)"/>
+  <path d="M64 65H111" stroke="#9ee5bf" stroke-width="4"/>
+  <g font-family="Arial, Helvetica, sans-serif">
+    <text x="128" y="72" fill="#b1d4ce" font-size="16" letter-spacing="3">THE OPEN SOURCE READING ROOM</text>
+    <text x="64" y="153" fill="#f0f5ee" font-size="57" font-weight="700" letter-spacing="-2">Beyond the trending list.</text>
+    <text x="66" y="199" fill="#b1d4ce" font-size="23">Discover the projects. Understand the ideas.</text>
+    <rect x="64" y="250" width="155" height="40" rx="20" fill="#9ee5bf"/>
+    <text x="141.5" y="276" text-anchor="middle" fill="#102e30" font-size="14" font-weight="700" letter-spacing="1">10 PROJECTS</text>
+    <text x="243" y="276" fill="#d6e7e1" font-size="15" letter-spacing="2">ONE DAILY DIGEST</text>
+    <g transform="translate(907 56)">
+      <rect x="42" y="0" width="250" height="218" rx="12" fill="#244b52" stroke="#537c80"/>
+      <rect x="21" y="21" width="250" height="218" rx="12" fill="#1d3b44" stroke="#537c80"/>
+      <rect y="42" width="250" height="218" rx="12" fill="#f0f5ee"/>
+      <circle cx="28" cy="72" r="4" fill="#d4a979"/><circle cx="43" cy="72" r="4" fill="#c2d3c4"/><circle cx="58" cy="72" r="4" fill="#699a8a"/>
+      <path d="M0 91H250" stroke="#d3dfd5"/>
+      <text x="24" y="133" fill="#18363c" font-size="21" font-weight="700">&lt; / &gt;</text>
+      <rect x="24" y="151" width="164" height="7" rx="3" fill="#9ab8aa"/>
+      <rect x="24" y="170" width="123" height="7" rx="3" fill="#cbd9ce"/>
+      <rect x="24" y="189" width="150" height="7" rx="3" fill="#cbd9ce"/>
+      <text x="24" y="236" fill="#245347" font-size="12" font-weight="700" letter-spacing="2">READ / LEARN / BUILD</text>
+    </g>
+  </g>
+</svg>
