@@ -23,14 +23,14 @@
 ## 📌 Latest Report
 
 <!-- Maintenance: update the link and all four fields below with each new issue, in both READMEs. -->
-### 👉 [2026-11-04 · agent-desktop Takes #1, Coding Agents Become Domain Studios](./2026/11/2026-11-04.md)
+### 👉 [2026-11-05 · agent-desktop Holds #1, NVIDIA Semantic Layer Debuts](./2026/11/2026-11-05.md)
 
 | | |
 | --- | --- |
-| 📅 **Date** | 2026-11-04 |
-| 🧩 **Theme** | agent-desktop Takes #1, Coding Agents Become Domain Studios |
+| 📅 **Date** | 2026-11-05 |
+| 🧩 **Theme** | agent-desktop Holds #1, NVIDIA Semantic Layer Debuts |
 | 📦 **Projects** | 10 |
-| 🗺️ **Coverage** | Agent Desktop Control · Agent Domain Studios · Memory & Skills · Local Inference & Model Gateways |
+| 🗺️ **Coverage** | Agent Desktop Control · Enterprise Data Semantic Layer · Memory, Skills & Specs · Scraping & Dev Tools |
 
 <a id="inside"></a>
 
@@ -89,7 +89,7 @@ Organized by `year/month`, all preserved for browsing.
 
 | Month | Issues | Browse |
 | --- | --- | --- |
-| November 2026 | 4 | [Enter →](./2026/11/) |
+| November 2026 | 5 | [Enter →](./2026/11/) |
 | October 2026 | 30 | [Enter →](./2026/10/) |
 | September 2026 | 29 | [Enter →](./2026/09/) |
 | August 2026 | 16 | [Enter →](./2026/08/) |
