@@ -23,14 +23,14 @@
 ## 📌 Latest Report
 
 <!-- Maintenance: update the link and all four fields below with each new issue, in both READMEs. -->
-### 👉 [2026-11-05 · agent-desktop Holds #1, NVIDIA Semantic Layer Debuts](./2026/11/2026-11-05.md)
+### 👉 [2026-11-06 · auto-ontology Takes #1, Agent Skills & UIs Surge](./2026/11/2026-11-06.md)
 
 | | |
 | --- | --- |
-| 📅 **Date** | 2026-11-05 |
-| 🧩 **Theme** | agent-desktop Holds #1, NVIDIA Semantic Layer Debuts |
+| 📅 **Date** | 2026-11-06 |
+| 🧩 **Theme** | auto-ontology Takes #1, Agent Skills & UIs Surge |
 | 📦 **Projects** | 10 |
-| 🗺️ **Coverage** | Agent Desktop Control · Enterprise Data Semantic Layer · Memory, Skills & Specs · Scraping & Dev Tools |
+| 🗺️ **Coverage** | Enterprise Data Semantic Layer · Agent Desktop Control & UIs · Skills & Design Taste · Scraping & Dev Tools |
 
 <a id="inside"></a>
 
@@ -89,7 +89,7 @@ Organized by `year/month`, all preserved for browsing.
 
 | Month | Issues | Browse |
 | --- | --- | --- |
-| November 2026 | 5 | [Enter →](./2026/11/) |
+| November 2026 | 6 | [Enter →](./2026/11/) |
 | October 2026 | 30 | [Enter →](./2026/10/) |
 | September 2026 | 29 | [Enter →](./2026/09/) |
 | August 2026 | 16 | [Enter →](./2026/08/) |
