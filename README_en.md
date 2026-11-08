@@ -23,14 +23,14 @@
 ## 📌 Latest Report
 
 <!-- Maintenance: update the link and all four fields below with each new issue, in both READMEs. -->
-### 👉 [2026-11-07 · Agent Skills Standardize as Big Tech Enters](./2026/11/2026-11-07.md)
+### 👉 [2026-11-08 · Skills as Standards, Infrastructure Goes Agent-Ready](./2026/11/2026-11-08.md)
 
 | | |
 | --- | --- |
-| 📅 **Date** | 2026-11-07 |
-| 🧩 **Theme** | Agent Skills Standardize as Big Tech Enters |
+| 📅 **Date** | 2026-11-08 |
+| 🧩 **Theme** | Skills as Standards, Infrastructure Goes Agent-Ready |
 | 📦 **Projects** | 10 |
-| 🗺️ **Coverage** | Official Platform Skills · Agent-Ready Infrastructure · Context Engineering & Classic Tools |
+| 🗺️ **Coverage** | Agent Skill Libraries · Agent Tools & Workspaces · Mature Infrastructure Goes Agent-Ready |
 
 <a id="inside"></a>
 
@@ -89,7 +89,7 @@ Organized by `year/month`, all preserved for browsing.
 
 | Month | Issues | Browse |
 | --- | --- | --- |
-| November 2026 | 7 | [Enter →](./2026/11/) |
+| November 2026 | 8 | [Enter →](./2026/11/) |
 | October 2026 | 30 | [Enter →](./2026/10/) |
 | September 2026 | 29 | [Enter →](./2026/09/) |
 | August 2026 | 16 | [Enter →](./2026/08/) |
