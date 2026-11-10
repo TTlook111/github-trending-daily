@@ -23,14 +23,14 @@
 ## 📌 Latest Report
 
 <!-- Maintenance: update the link and all four fields below with each new issue, in both READMEs. -->
-### 👉 [2026-11-09 · Agents Grow Memory and Senses, Reaching into the Physical World](./2026/11/2026-11-09.md)
+### 👉 [2026-11-10 · Engineering Methodology Standardized as Leading Teams Step In](./2026/11/2026-11-10.md)
 
 | | |
 | --- | --- |
-| 📅 **Date** | 2026-11-09 |
-| 🧩 **Theme** | Agents Grow Memory and Senses, Reaching into the Physical World |
+| 📅 **Date** | 2026-11-10 |
+| 🧩 **Theme** | Engineering Methodology Standardized as Leading Teams Step In |
 | 📦 **Projects** | 10 |
-| 🗺️ **Coverage** | Skill Ecosystem · Memory & Physical Sensing · Vertical Apps & Onboarding |
+| 🗺️ **Coverage** | Skills & Tool Ecosystem · Authoritative Engineering Methodology · Full-Stack Frameworks & Physics Simulation |
 
 <a id="inside"></a>
 
@@ -89,7 +89,7 @@ Organized by `year/month`, all preserved for browsing.
 
 | Month | Issues | Browse |
 | --- | --- | --- |
-| November 2026 | 9 | [Enter →](./2026/11/) |
+| November 2026 | 10 | [Enter →](./2026/11/) |
 | October 2026 | 30 | [Enter →](./2026/10/) |
 | September 2026 | 29 | [Enter →](./2026/09/) |
 | August 2026 | 16 | [Enter →](./2026/08/) |
