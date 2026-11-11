@@ -23,14 +23,14 @@
 ## 📌 Latest Report
 
 <!-- Maintenance: update the link and all four fields below with each new issue, in both READMEs. -->
-### 👉 [2026-11-10 · Engineering Methodology Standardized as Leading Teams Step In](./2026/11/2026-11-10.md)
+### 👉 [2026-11-11 · Meta-Skills Rise: Agents Audit and Plan Other Agents](./2026/11/2026-11-11.md)
 
 | | |
 | --- | --- |
-| 📅 **Date** | 2026-11-10 |
-| 🧩 **Theme** | Engineering Methodology Standardized as Leading Teams Step In |
+| 📅 **Date** | 2026-11-11 |
+| 🧩 **Theme** | Meta-Skills Rise: Agents Audit and Plan Other Agents |
 | 📦 **Projects** | 10 |
-| 🗺️ **Coverage** | Skills & Tool Ecosystem · Authoritative Engineering Methodology · Full-Stack Frameworks & Physics Simulation |
+| 🗺️ **Coverage** | Audit & Planning Meta-Skills · Life & Finance Scenarios · Stable Foundations |
 
 <a id="inside"></a>
 
@@ -89,7 +89,7 @@ Organized by `year/month`, all preserved for browsing.
 
 | Month | Issues | Browse |
 | --- | --- | --- |
-| November 2026 | 10 | [Enter →](./2026/11/) |
+| November 2026 | 11 | [Enter →](./2026/11/) |
 | October 2026 | 30 | [Enter →](./2026/10/) |
 | September 2026 | 29 | [Enter →](./2026/09/) |
 | August 2026 | 16 | [Enter →](./2026/08/) |
