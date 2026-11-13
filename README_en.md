@@ -23,14 +23,14 @@
 ## 📌 Latest Report
 
 <!-- Maintenance: update the link and all four fields below with each new issue, in both READMEs. -->
-### 👉 [2026-11-12 · The Agent Stack Takes Layers: From Routing to Governance](./2026/11/2026-11-12.md)
+### 👉 [2026-11-13 · The Standards Layer Leads as the Agent Stack Solidifies](./2026/11/2026-11-13.md)
 
 | | |
 | --- | --- |
-| 📅 **Date** | 2026-11-12 |
-| 🧩 **Theme** | The Agent Stack Takes Layers: From Routing to Governance |
+| 📅 **Date** | 2026-11-13 |
+| 🧩 **Theme** | The Standards Layer Leads as the Agent Stack Solidifies |
 | 📦 **Projects** | 10 |
-| 🗺️ **Coverage** | Coding Agents & Skills · Model Routing & Local Inference · Enterprise Agent Governance |
+| 🗺️ **Coverage** | Agent Security & Standards Skills · Model Routing & Local Inference · Enterprise Agent Governance |
 
 <a id="inside"></a>
 
@@ -89,7 +89,7 @@ Organized by `year/month`, all preserved for browsing.
 
 | Month | Issues | Browse |
 | --- | --- | --- |
-| November 2026 | 12 | [Enter →](./2026/11/) |
+| November 2026 | 13 | [Enter →](./2026/11/) |
 | October 2026 | 30 | [Enter →](./2026/10/) |
 | September 2026 | 29 | [Enter →](./2026/09/) |
 | August 2026 | 16 | [Enter →](./2026/08/) |
