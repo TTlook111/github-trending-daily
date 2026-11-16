@@ -23,14 +23,14 @@
 ## 📌 Latest Report
 
 <!-- Maintenance: update the link and all four fields below with each new issue, in both READMEs. -->
-### 👉 [2026-11-14 · The Review Layer Emerges as the Agent Stack Closes the Loop](./2026/11/2026-11-14.md)
+### 👉 [2026-11-15 · The Review Layer Deepens as Local Compute Returns](./2026/11/2026-11-15.md)
 
 | | |
 | --- | --- |
-| 📅 **Date** | 2026-11-14 |
-| 🧩 **Theme** | The Review Layer Emerges as the Agent Stack Closes the Loop |
+| 📅 **Date** | 2026-11-15 |
+| 🧩 **Theme** | The Review Layer Deepens as Local Compute Returns |
 | 📦 **Projects** | 10 |
-| 🗺️ **Coverage** | Agent Standards & Code Review · Agent Debugging & Collaboration UI · Self-Hosted & Local Tools |
+| 🗺️ **Coverage** | Agent Review & Debugging · Local GPU & Self-Hosting · Office SDK & Skill Engineering |
 
 <a id="inside"></a>
 
@@ -89,7 +89,7 @@ Organized by `year/month`, all preserved for browsing.
 
 | Month | Issues | Browse |
 | --- | --- | --- |
-| November 2026 | 14 | [Enter →](./2026/11/) |
+| November 2026 | 15 | [Enter →](./2026/11/) |
 | October 2026 | 30 | [Enter →](./2026/10/) |
 | September 2026 | 29 | [Enter →](./2026/09/) |
 | August 2026 | 16 | [Enter →](./2026/08/) |
