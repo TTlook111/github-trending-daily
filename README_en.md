@@ -23,14 +23,14 @@
 ## 📌 Latest Report
 
 <!-- Maintenance: update the link and all four fields below with each new issue, in both READMEs. -->
-### 👉 [2026-11-17 · Skills Scale Up, the Delivery Chain Catches Up](./2026/11/2026-11-17.md)
+### 👉 [2026-11-18 · Verification: Skills Need Proof and Interfaces](./2026/11/2026-11-18.md)
 
 | | |
 | --- | --- |
-| 📅 **Date** | 2026-11-17 |
-| 🧩 **Theme** | Skills Scale Up, the Delivery Chain Catches Up |
+| 📅 **Date** | 2026-11-18 |
+| 🧩 **Theme** | Verification: Skills Need Proof and Interfaces |
 | 📦 **Projects** | 10 |
-| 🗺️ **Coverage** | Agent Skill Supply at Scale · Orchestration & Review Gates · Protocol Freeze & Output Substrate |
+| 🗺️ **Coverage** | Skill Evaluation & Quality Gates · Real-Software & Data Access · Evidence Chains & Delivery Substrates |
 
 <a id="inside"></a>
 
@@ -89,7 +89,7 @@ Organized by `year/month`, all preserved for browsing.
 
 | Month | Issues | Browse |
 | --- | --- | --- |
-| November 2026 | 17 | [Enter →](./2026/11/) |
+| November 2026 | 18 | [Enter →](./2026/11/) |
 | October 2026 | 30 | [Enter →](./2026/10/) |
 | September 2026 | 29 | [Enter →](./2026/09/) |
 | August 2026 | 16 | [Enter →](./2026/08/) |
