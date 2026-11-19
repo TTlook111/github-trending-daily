@@ -23,14 +23,14 @@
 ## 📌 Latest Report
 
 <!-- Maintenance: update the link and all four fields below with each new issue, in both READMEs. -->
-### 👉 [2026-11-18 · Verification: Skills Need Proof and Interfaces](./2026/11/2026-11-18.md)
+### 👉 [2026-11-19 · Plugins: The Distribution Layer for Skills](./2026/11/2026-11-19.md)
 
 | | |
 | --- | --- |
-| 📅 **Date** | 2026-11-18 |
-| 🧩 **Theme** | Verification: Skills Need Proof and Interfaces |
+| 📅 **Date** | 2026-11-19 |
+| 🧩 **Theme** | Plugins: The Distribution Layer for Skills |
 | 📦 **Projects** | 10 |
-| 🗺️ **Coverage** | Skill Evaluation & Quality Gates · Real-Software & Data Access · Evidence Chains & Delivery Substrates |
+| 🗺️ **Coverage** | Plugin Specs & Marketplaces · Cross-Harness Distribution · Agent-Native Interfaces |
 
 <a id="inside"></a>
 
@@ -89,7 +89,7 @@ Organized by `year/month`, all preserved for browsing.
 
 | Month | Issues | Browse |
 | --- | --- | --- |
-| November 2026 | 18 | [Enter →](./2026/11/) |
+| November 2026 | 19 | [Enter →](./2026/11/) |
 | October 2026 | 30 | [Enter →](./2026/10/) |
 | September 2026 | 29 | [Enter →](./2026/09/) |
 | August 2026 | 16 | [Enter →](./2026/08/) |
