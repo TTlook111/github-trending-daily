@@ -23,14 +23,14 @@
 ## 📌 Latest Report
 
 <!-- Maintenance: update the link and all four fields below with each new issue, in both READMEs. -->
-### 👉 [2026-11-22 · Restraint Sells, Skills Turn Into Discipline](./2026/11/2026-11-22.md)
+### 👉 [2026-11-23 · Novelty Cools, Workflows Return](./2026/11/2026-11-23.md)
 
 | | |
 | --- | --- |
-| 📅 **Date** | 2026-11-22 |
-| 🧩 **Theme** | Restraint Sells, Skills Turn Into Discipline |
+| 📅 **Date** | 2026-11-23 |
+| 🧩 **Theme** | Novelty Cools, Workflows Return |
 | 📦 **Projects** | 10 |
-| 🗺️ **Coverage** | Agent Skills & Discipline Gates · Data & Software Access · Local Tools & Interoperability |
+| 🗺️ **Coverage** | Agent Workflows & Skill Libraries · Data & Research Engines · Desktop Tools & Compliance Gates |
 
 <a id="inside"></a>
 
@@ -89,7 +89,7 @@ Organized by `year/month`, all preserved for browsing.
 
 | Month | Issues | Browse |
 | --- | --- | --- |
-| November 2026 | 22 | [Enter →](./2026/11/) |
+| November 2026 | 23 | [Enter →](./2026/11/) |
 | October 2026 | 30 | [Enter →](./2026/10/) |
 | September 2026 | 29 | [Enter →](./2026/09/) |
 | August 2026 | 16 | [Enter →](./2026/08/) |
