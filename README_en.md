@@ -23,14 +23,14 @@
 ## 📌 Latest Report
 
 <!-- Maintenance: update the link and all four fields below with each new issue, in both READMEs. -->
-### 👉 [2026-11-20 · Verify First, Ship Later: Gates Become Standard](./2026/11/2026-11-20.md)
+### 👉 [2026-11-21 · Same List, Heat Moves Down](./2026/11/2026-11-21.md)
 
 | | |
 | --- | --- |
-| 📅 **Date** | 2026-11-20 |
-| 🧩 **Theme** | Verify First, Ship Later: Gates Become Standard |
+| 📅 **Date** | 2026-11-21 |
+| 🧩 **Theme** | Same List, Heat Moves Down |
 | 📦 **Projects** | 10 |
-| 🗺️ **Coverage** | Pre-Delivery Validation Gates · Real Backends & Evidence Chains · Self-Contained Artifacts |
+| 🗺️ **Coverage** | Desktop & Content Tools · Delivery Compliance Gates · Agent Data Supply |
 
 <a id="inside"></a>
 
@@ -89,7 +89,7 @@ Organized by `year/month`, all preserved for browsing.
 
 | Month | Issues | Browse |
 | --- | --- | --- |
-| November 2026 | 20 | [Enter →](./2026/11/) |
+| November 2026 | 21 | [Enter →](./2026/11/) |
 | October 2026 | 30 | [Enter →](./2026/10/) |
 | September 2026 | 29 | [Enter →](./2026/09/) |
 | August 2026 | 16 | [Enter →](./2026/08/) |
